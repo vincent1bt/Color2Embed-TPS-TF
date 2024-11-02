@@ -2,7 +2,7 @@
 
 Color2Embedding is a framework to colorize black and white images. It's training using a pair of reference and target images, from reference images we obtain the color information to inject such information into the target image. 
 
-We use the TPS augmentation to transform the reference image. You can read more about TPS and the Color2Embedding framework in [this blog post](https://vincentblog.xyz/posts/thin-plate-splines-and-its-implementation-as-data-augmentation-technique).
+We use the TPS augmentation to transform the reference image. You can read more about TPS and the Color2Embedding framework in [this blog post](https://vincentblog.link/posts/thin-plate-splines-and-its-implementation-as-data-augmentation-technique).
 
 The TPS augmentation implementation is inside *data_generator/data_utils.py*.
 
